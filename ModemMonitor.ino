@@ -239,7 +239,7 @@ void setup() {
     "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
     "Mike's Little Modem Monitor\r\n"
     "~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n"
-    "                         2024 MIchael Scott"));
+    "Michael Scott 2024\r\n\r\n"));
 
   Serial.println(F("NOTE  Use V1.1.2 of the Ethernet library.  DO NOT upgrade - versions 2.0.0 to 2.0.2 won't compile."));
 
